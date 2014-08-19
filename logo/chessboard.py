@@ -12,4 +12,4 @@ def drawboard():
    for count in range(0,63):
       square(50 + 1)
 
-drawboard():
+drawboard()
