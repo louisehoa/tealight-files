@@ -10,3 +10,5 @@ from tealight.robot import (move,
 while touch(1) != 'wall':
   look(1)
   move(1)
+  if touch(1) = 'wall':
+    turn(1)
