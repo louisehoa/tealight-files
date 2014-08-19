@@ -12,7 +12,7 @@ while touch(1) != 'wall':
   left_side(1)
   move(1)
   if touch(1) == 'wall':
-    turn(1)
+    turn(-2)
     if touch (1) == 'wall':
       turn(-2)
     
