@@ -22,4 +22,4 @@ def square(side):
     turn(90)
 
 for count in range(0,8):
-  square(30 + count)
+  square(30 + 30)
