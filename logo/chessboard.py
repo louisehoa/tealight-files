@@ -8,4 +8,4 @@ def square(side):
     move(side)
     turn(90)
 
-square(360, 4)
+square( 4)
