@@ -15,6 +15,7 @@ while touch() != 'wall':
     turn(-1)
   elif touch() == 'wall':
     turn(1)
+    turn(1)
   elif touch() == 'wall':
     turn(1)
 
