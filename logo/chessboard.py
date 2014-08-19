@@ -10,6 +10,6 @@ def square(side):
 
 def drawboard():
    for count in range(0,63):
-      square(50 + count)
+      square(50 + (count * 10))
 
 drawboard()
