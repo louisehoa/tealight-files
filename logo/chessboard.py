@@ -21,7 +21,7 @@ def spiral(size):
   if size > 200:
     return
   
-  move(size)
+  move(25)
   turn(90)
   spiral(size + 5)
   
