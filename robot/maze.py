@@ -14,8 +14,10 @@ while touch() != 'wall':
     left_side()
     turn(-1)
   if touch() == 'wall':
+    left_side()
     turn(2)
   if touch() == 'wall':
+    left_side()
     turn(1)
 
     
