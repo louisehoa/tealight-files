@@ -13,8 +13,8 @@ while touch() != 'wall':
   move()
   if touch() == 'wall':
     turn(-1)
-    if touch () == 'wall':
-      turn(-2)
+    #if touch () == 'wall':
+      #turn(-2)
     if touch () == 'wall':
       turn(1)
       
