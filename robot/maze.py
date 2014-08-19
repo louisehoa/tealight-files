@@ -7,7 +7,7 @@ from tealight.robot import (move,
                             right_side)
 
 # Add your code here
-while touch() != 'wall':
+while touch() != 'wall' & touch() != 'fruit':
   move()
   if left_side() != 'wall':
     turn(-1)
