@@ -8,4 +8,5 @@ def square(side):
     move(side)
     turn(90)
     
-square
+decoration = size / 2
+square(decoration)
