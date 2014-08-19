@@ -21,4 +21,4 @@ def square(side):
     move(side)
     turn(90)
   
-spiral(0)
+square(0)
