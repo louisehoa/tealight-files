@@ -7,6 +7,6 @@ from tealight.robot import (move,
                             right_side)
 
 # Add your code here
-while touch() != 'fruit'
-move(1)
-turn(3)
+while touch() != 'fruit':
+  move(1)
+  turn(3)
