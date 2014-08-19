@@ -6,6 +6,7 @@ def square(side):
     turn(90)
 
 for count3 in range(0, 8):
+  turn(180)
   for count2 in range(0,8):
     turn(180)
     for count in range(0,8):
