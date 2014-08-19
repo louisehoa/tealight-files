@@ -8,4 +8,6 @@ def square(side):
     move(side)
     turn(90)
 
-square(50)
+def drawboard():
+   for count in range(0,63):
+      square(50 + 1)
