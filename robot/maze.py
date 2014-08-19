@@ -9,4 +9,4 @@ from tealight.robot import (move,
 # Add your code here
 while touch(1) != 'wall':
   look(1)
-  touch(1)
+  move(1)
