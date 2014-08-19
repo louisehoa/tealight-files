@@ -24,4 +24,4 @@ move(1)
 move (1)
 turn (1)
 move (1)
-
+turn(2)
