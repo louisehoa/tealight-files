@@ -10,3 +10,5 @@ from tealight.robot import (move,
 move (1)
 move (1)
 turn (1)
+move (1)
+move (1)
