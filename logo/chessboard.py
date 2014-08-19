@@ -16,8 +16,9 @@
 
 from tealight.logo import move, turn
 
-  move(25)
-  turn(90)
-  spiral(size + 5)
+def square(side):
+  for i in range(0,4):
+    move(side)
+    turn(90)
   
 spiral(0)
