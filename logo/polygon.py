@@ -4,6 +4,6 @@ def polygon(edges, size):
   angle = 360.0 / edges
   for i in range(0, edges):
     move(size)
-    turn(angle)
+    turn(30)
     
 polygon(6,150)
