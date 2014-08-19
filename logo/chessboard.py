@@ -23,4 +23,4 @@ def square(side):
 
 for count in range(0,8):
   square(30)
-  move(80)
+  move(30)
