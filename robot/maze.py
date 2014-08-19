@@ -7,6 +7,6 @@ from tealight.robot import (move,
                             right_side)
 
 # Add your code here
-while touch(1) != 'wall'
+while touch(1) != 'wall':
   look(1)
   touch(1)
