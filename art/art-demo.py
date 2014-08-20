@@ -38,3 +38,5 @@ def handle_mousemove(x,y):
   lastx = x
   lasty = y
   
+def handle_frame
+handle_mousemove(x,y)
