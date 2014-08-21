@@ -1,7 +1,7 @@
 from tealight.net import(connect, send)
 
 connect ('Dinosaurs.py')
-message = ("I'm the meerkat gaaaldem")
+message = (image("http://i.imgur.com/0zoXV5h.png"))
 send(message)
 
 def handle_message(message):
