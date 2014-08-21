@@ -1,4 +1,4 @@
-from tealight.net import(connect, send)
+from tealight.net import(connect, send, image)
 
 connect ('Dinosaurs.py')
 message = image("http://i.imgur.com/0zoXV5h.png")
