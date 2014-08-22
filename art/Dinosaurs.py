@@ -5,4 +5,4 @@ message = "Meerkat"
 send(message)
 
 def handle_message(message):
-  print "You have one message: " + message
+  print "You have one message: " + str(message)
