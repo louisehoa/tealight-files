@@ -1,6 +1,6 @@
 from tealight.net import(connect, send)
 
-connect ('Dinosaurs.py')
+connect('Dinosaurs.py')
 message = "Meerkat"
 send(message)
 
